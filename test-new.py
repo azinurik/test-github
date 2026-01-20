@@ -7,3 +7,4 @@ else:
         print(a)
     else:
         print(b)
+a=int
